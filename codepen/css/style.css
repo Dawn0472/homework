@@ -1,0 +1,149 @@
+div.row{
+background-image:url("https://goo.gl/yAXt8J");
+font-family: 'Actor', sans-serif;
+font-family: 'Teko', sans-serif;
+font-size:35px;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+height:800px;
+width:1400px;
+}
+.logo{
+ height:80px;
+ font-size:55px; 
+ margin-left:20px;
+
+}
+.col-2{
+  
+  height:80px;
+  margin-top:15px;
+  text-align: center; 
+}
+
+
+
+#about-header:hover{
+  background-color:none;
+  color: #5599FF;
+  
+  
+}
+
+#experience-header:hover{
+  color: #5599FF;
+}
+
+#portfolio-header:hover{
+ color: #5599FF;
+}
+
+.motto{
+  font-family: 'Actor', sans-serif;
+  font-family: 'Teko', sans-serif;
+  font-family: 'Rochester', cursive;
+  border-top-style:solid;
+  border-bottom-style:solid;
+  text-align: center; 
+  transform:translate(350px,-150px);
+  height:50px;
+} 
+
+.intro{
+ transform:translate(450px,50px);  
+ height:500px;
+ width:500px;
+ 
+}
+
+
+.title {
+ font-family: 'Actor', sans-serif;
+ font-family: 'Teko', sans-serif;
+ margin-left:10px;  
+ font-size:30px; 
+ border-bottom-style:solid;
+ width:120px;
+ height:40px;
+ }
+
+.about{
+  text-align: center;
+  transform:translate(170px,20px);
+}
+
+
+
+.Chinese{
+ 
+font-family:Microsoft JhengHei;
+font-weight:bold;
+font-size:25px;  
+margin-top:-10px; 
+}
+
+.aboutChinese{
+transform:translate(200px,15px);  
+  
+}
+
+.personalphoto{
+transform:translate(-330px,60px);    
+}
+
+#name{
+ font-size:40px; 
+ transform:translate(20px,-160px);  
+}
+
+.content {
+ font-family:Microsoft JhengHei;
+ font-weight:bold; 
+ font-size:20px;  
+ width:800px;
+ height:10px;
+ margin-top:-25px; 
+ margin-bottom:20px; 
+}
+
+.contenttrans{
+   transform:translate(20px,-130px); 
+}
+
+.experience{
+transform:translate(170px,10px);  
+text-align: center;    
+}
+
+.empiric{
+  transform:translate(-0px,5px);   
+}
+
+.learntxt{
+  font-family:Microsoft JhengHei;
+  font-size:20px;
+  }
+
+
+.learnconnect{
+  width:1400px;
+  flex-direction:row;
+  display:flex;
+  justify-content:space-around;
+  align-item:center;
+  transform:translate(-650px,30px);  
+}
+
+.Portfolio{
+  text-align: center; 
+  transform:translate(-10px,0px);
+}
+
+.portimg{
+  margin-top:15px; 
+  flex-direction:row;
+  display:flex;
+ justify-content:space-around;
+ transform:translate(0px,40px); 
+}
+
